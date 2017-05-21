@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"TouchGiftExp"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"{RED}[LR] {DEF}Your exp: {GREEN}{1} [+{2} touch gift]"
+		"ru"		"{RED}[LR] {DEF}Ваш опыт: {GREEN}{1} [+{2} за подарочек]"
+	}
+	"TouchGiftTime"
+	{
+		"#format"	"{1:02d},{2:02d},{3:02d},{4:i}"
+		"en"		"{RED}[LR] {DEF}Your counter: {GREEN}{1} : {2} : {3} [+{4} touch gift]"
+		"ru"		"{RED}[LR] {DEF}Ваш счетчик: {GREEN}{1} : {2} : {3} [+{4} за подарочек]"
+	}
+}
